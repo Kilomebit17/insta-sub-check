@@ -1,1 +1,1 @@
-#https://kilomebit17.github.io/insta-sub-check/
+# https://kilomebit17.github.io/insta-sub-check/
